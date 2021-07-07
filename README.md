@@ -1,5 +1,5 @@
 
-      // long code, sorry
+  // long code, sorry
 
 alert("welcome to the game The Woodcutter!")
 alert("The goal of this game is to sell and make the wood properly to get 100K credits")
